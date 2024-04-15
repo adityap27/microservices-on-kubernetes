@@ -155,4 +155,4 @@ ls /Aditya_PV_dir
  - **Submitted by**: Aditya Maheshbhai Purohit (aditya.purohit@dal.ca)
 B00952865
 
-- **For**: CSCI 5409 Cloud Computing – Winter 2024
+- **For**: CSCI 5409 Cloud Computing – Winter 2024 - Kubernetes Assignment.
