@@ -1,7 +1,10 @@
 # Microservices deployment on Kubernetes.
 
 ## Project Overview
-I have created 2 microservices, containerized them using docker and deployed them on Kubernetes cluster (GKE), using CI/CD and registry for containers. The Infrastructer as Code (IaC) approach is used for creating a k8s cluster.
+I have created 2 microservices, containerized them using docker and deployed them on Kubernetes cluster (GKE), using CI/CD and registry for containers. The Infrastructer as Code (IaC) approach is used for creating a k8s cluster. 
+
+## Overview and Set-up video
+https://youtu.be/hF0YCRg2MXw
 
 ## Table of Contents
   - [Technology Overview](#technology-overview)
